@@ -1,5 +1,5 @@
 <p align="center">
-  <img text-align="center" width="300px" src="https://github.com/dhertzb/deivihertz/raw/main/src/assets/logo.svg">
+  <img text-align="center" width="200px" src="https://github.com/dhertzb/deivihertz/raw/main/src/assets/logo.svg">
 </p>
 
 # BEM VINDO! 
