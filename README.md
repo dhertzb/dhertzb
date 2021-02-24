@@ -5,7 +5,7 @@
 ## Bem vindo! 
 
 ### Muito prazer, meu nome é deividy hertz ( mas pode me chamar de deivi )
-
+#### Atualmente trabalho na [Clientar](https://github.com/clientarcrm) na arquitetura e implementação de um novo sistema CRM.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-dhertzb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhertzb@gmail.com)](mailto:dhertzb@gmail.com)
