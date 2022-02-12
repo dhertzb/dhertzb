@@ -4,7 +4,7 @@
 
 # BEM VINDO! 
 
-### Muito prazer, meu nome é deividy hertz ( mas pode me chamar de deivi )
+### Muito prazer, meu nome é deividy hertz
 -   :office: &nbsp; Atualmente trabalho na [Elofy](https://www.elofy.com.br/) como desenvolvedor front end.
 
 - :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end utilizando Vue
@@ -16,6 +16,7 @@
 #### *Entre em contato comigo*<br/>
 
  [![Linkedin Badge](https://img.shields.io/badge/-DeiviHertz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhertzb/)](https://www.linkedin.com/in/dhertzb/)
+ 
 [![Gmail Badge](https://img.shields.io/badge/-dhertzb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhertzb@gmail.com)](mailto:dhertzb@gmail.com)
 
 
