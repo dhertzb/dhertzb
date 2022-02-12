@@ -7,7 +7,7 @@
 ### Muito prazer, meu nome é deividy hertz
 -   :office: &nbsp; Atualmente trabalho na [Elofy](https://www.elofy.com.br/) como desenvolvedor front end.
 
-- :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end utilizando Vue
+- :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
 
 - :computer: &nbsp; Minha stack:  | Vue | React | Angular | Vuex | NuxtJs | Javascript | CSS | HTML | Sass | Jest |
 
